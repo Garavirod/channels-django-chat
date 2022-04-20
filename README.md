@@ -1,7 +1,7 @@
 # channels-django-chat
 simple chat using django channels and user authentication
 
-# Install dependecies
+# Install dependencies
 
 ```bash
 pipenv install

@@ -5,6 +5,6 @@ simple chat using django channels and user authentication
 
 ```bash
 pipenv install
-cd server
+cd chanels
 pipenv run server
 ``` 
